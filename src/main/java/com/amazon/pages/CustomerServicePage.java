@@ -1,5 +1,7 @@
 package com.amazon.pages;
 
-public class CustomerServicePage {
+import com.amazon.base.DriverScript;
+
+public class CustomerServicePage extends DriverScript{
 
 }

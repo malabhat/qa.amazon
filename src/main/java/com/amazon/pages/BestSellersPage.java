@@ -1,5 +1,7 @@
 package com.amazon.pages;
 
-public class BestSellersPage {
+import com.amazon.base.DriverScript;
+
+public class BestSellersPage extends DriverScript{
 
 }

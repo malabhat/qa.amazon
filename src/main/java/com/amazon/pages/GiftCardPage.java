@@ -1,5 +1,7 @@
 package com.amazon.pages;
 
-public class GiftCardPage {
+import com.amazon.base.DriverScript;
+
+public class GiftCardPage extends DriverScript{
 
 }

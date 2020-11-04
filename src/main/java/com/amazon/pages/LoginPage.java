@@ -1,5 +1,7 @@
 package com.amazon.pages;
 
-public class LoginPage {
+import com.amazon.base.DriverScript;
+
+public class LoginPage extends DriverScript{
 
 }
